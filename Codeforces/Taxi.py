@@ -1,3 +1,5 @@
+# https://codeforces.com/contest/158/problem/B
+
 from math import ceil
 
 

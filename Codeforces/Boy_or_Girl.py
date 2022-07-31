@@ -1,3 +1,6 @@
+# https://codeforces.com/contest/236/problem/A
+
+
 name = input()
 n = ord('z') - ord('a') + 1
 counter = [0 for _ in range(n)]

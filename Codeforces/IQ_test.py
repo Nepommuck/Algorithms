@@ -1,3 +1,5 @@
+# https://codeforces.com/contest/25/problem/A
+
 n = int(input())
 nums = [int(x) for x in input().split()]
 

@@ -1,3 +1,5 @@
+# https://codeforces.com/contest/1/problem/A
+
 from math import ceil
 
 inp = input()
