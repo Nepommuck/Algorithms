@@ -1,3 +1,5 @@
+# https://codeforces.com/problemset/problem/550/A
+
 def solve(string):
     l = len(string)
     i = 1
